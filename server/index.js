@@ -3,10 +3,10 @@ const CronJob = require("cron").CronJob;
 
 
 let T = new Twit({
-    consumer_key: 'qKj6SmvxZpPWjQayIFjHyJjHm',
-    consumer_secret: 'ThDjCttXWZQtnjvyTSpCRkk1Pj71OtB3Ueh8XMCmCseMhavYTj',
-    access_token: '1469040387599872003-seJ2vFAyNywI9axwb4yE8MosgjHjQg',
-    access_token_secret: '35zw1AMnxIYrlOX6ebFP7sll9SkWdENQA4Ld72sUhaETV',
+    consumer_key: '',
+    consumer_secret: '',
+    access_token: '',
+    access_token_secret: '',
 })
 
 let id_tweet;
